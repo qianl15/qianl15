@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Qian Li 👋
 
-<!--
-**qianl15/qianl15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Co-founder, Architect, and Chief Exterminator 🐛 at [DBOS](https://github.com/dbos-inc)**  
+🚀 Building developer tools for reliable software  
+🛠️ Programmer | Database Expert | Debugging Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 About Me
+
+I co-founded DBOS, where we're building developer tools to make it easier to build reliable software.  
+I earned my Ph.D. in Computer Science at Stanford, where I worked on databases and systems.
+
+- 💡 **Current Focus:** Architecting DBOS and exterminating bugs
+- 🐦 **Fun Fact:** I love bird watching!
+- 🌐 [Personal Website](https://qianli.dev/)
+
+---
+
+## 🔥 Featured Projects
+
+- [dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
+- [dbos-transact-ts](https://github.com/dbos-inc/dbos-transact-ts) — Lightweight Durable TypeScript Workflows
+- [pydantic-ai](https://github.com/pydantic/pydantic-ai) — Building production-grade applications powered by Generative AI. I contributed [durable agents with DBOS](https://docs.dbos.dev/integrations/pydantic-ai).
+- [durable-swarm](https://github.com/dbos-inc/durable-swarm) — Augment Swarm with durable execution (DBOS) to help you build reliable and scalable multi-agent systems.
+
+---
+
+## 🛠️ Expertise
+
+- Databases & Distributed Systems
+- Multilingual: Python, TypeScript, Go, Java, C/C++
+- Debugging all the bugs 🐛
+
+---
+
+## 🐦 Let's Connect
+
+- 🌐 [qianli.dev](https://qianli.dev/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/qianli-dev/)
