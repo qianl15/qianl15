@@ -18,6 +18,8 @@ I earned my Ph.D. in Computer Science at Stanford, where I worked on databases a
 
 - [dbos-transact-py](https://github.com/dbos-inc/dbos-transact-py) - Lightweight Durable Python Workflows
 - [dbos-transact-ts](https://github.com/dbos-inc/dbos-transact-ts) — Lightweight Durable TypeScript Workflows
+- [dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) — Lightweight Durable Go Workflows
+- [dbos-transact-java](https://github.com/dbos-inc/dbos-transact-java) — Lightweight Durable Java Workflows
 - [pydantic-ai](https://github.com/pydantic/pydantic-ai) — Building production-grade applications powered by Generative AI. I contributed [durable agents with DBOS](https://docs.dbos.dev/integrations/pydantic-ai).
 - [durable-swarm](https://github.com/dbos-inc/durable-swarm) — Augment Swarm with durable execution (DBOS) to help you build reliable and scalable multi-agent systems.
 
