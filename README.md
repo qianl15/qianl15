@@ -21,6 +21,7 @@ I earned my Ph.D. in Computer Science at Stanford, where I worked on databases a
 - [dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) — Lightweight Durable Go Workflows
 - [dbos-transact-java](https://github.com/dbos-inc/dbos-transact-java) — Lightweight Durable Java Workflows
 - [pydantic-ai](https://github.com/pydantic/pydantic-ai) — Building production-grade applications powered by Generative AI. I contributed [durable agents with DBOS](https://docs.dbos.dev/integrations/pydantic-ai).
+- [code-puppy](https://github.com/mpfaffenberger/code_puppy) - An AI-powered code generation agent designed to understand programming tasks, generate high-quality code, and explain its reasoning. I contributed [durable execution with DBOS](https://github.com/mpfaffenberger/code_puppy?tab=readme-ov-file#durable-execution).
 - [durable-swarm](https://github.com/dbos-inc/durable-swarm) — Augment Swarm with durable execution (DBOS) to help you build reliable and scalable multi-agent systems.
 
 ### Expertise
